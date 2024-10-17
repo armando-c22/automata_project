@@ -1,0 +1,25 @@
+.headerCont{
+    background-color: #4B0BA1;
+    display: flex;
+    border-radius: 50px;
+    justify-content: space-between;
+    padding: 5px 20px;
+    margin: 0 0 30px 0;
+}
+
+.brand{
+    display: flex;
+    align-items: center;
+}
+
+.brand img{
+    width: 60px;
+    height: 60px;
+    margin: 0 30px;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 500;
+}
